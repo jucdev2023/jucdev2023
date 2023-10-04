@@ -17,6 +17,7 @@
     <img align="center" alt="ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="ju-RUBY" height="30" width="40" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
      <img align="center" alt="ju-FIGMA" height="30" width="40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  
+     <img align="center" alt="ju-SASS" height="30" width="40" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+     
   
 </div>
